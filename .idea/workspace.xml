@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f365519f-7884-4796-814f-2b25e224eeef" name="Changes" comment="Array Example" />
+    <list default="true" id="f365519f-7884-4796-814f-2b25e224eeef" name="Changes" comment="Array  Queue Example">
+      <change afterPath="$PROJECT_DIR$/src/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,15 +55,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayExample.executor": "Run",
+    "Application.ArrayQueue.executor": "Run",
+    "Application.Fruits.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.QueueEx.executor": "Run",
+    "Application.QueueExample.executor": "Run",
     "Application.SortAlgorithms.executor": "Run",
     "Application.Stack.executor": "Run",
     "Application.StackExample.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
     "Application.linked_List.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/WW/Desktop/Academic/Semester 03/IS3102/DSA",
     "onboarding.tips.debug.path": "C:/Users/WW/Desktop/Academic/Semester 03/IS3102/DSA/src/Main.java"
   }
 }]]></component>
@@ -108,14 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761243549671</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Array  Queue Example">
+      <option name="closed" value="true" />
+      <created>1762324194300</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762324194300</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sort Algorithms" />
     <MESSAGE value="Stack Example" />
     <MESSAGE value="Array Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array Example" />
+    <MESSAGE value="Array  Queue Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array  Queue Example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
